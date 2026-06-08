@@ -13,7 +13,7 @@ h1{color:#4ecca3}
 </style>
 </head>
 <body>
-<h1>🌴 Jungle Tic Tac Toe 🌴</h1>
+<h1> Jungle Tic Tac Toe </h1>
 <div class="board" id="board"></div>
 <script>
 const board=document.getElementById('board');let current='X';let cells=Array(9).fill('');
